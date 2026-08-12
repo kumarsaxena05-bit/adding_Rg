@@ -7,6 +7,6 @@ resource "azurerm_resource_group" "devrg1" {
   location = "eastus"
 }
 resource "azurerm_resource_group" "devrg2" {
-  name ="test_rg2"
+  name ="test_rg4"
   location = "eastus"
 }
